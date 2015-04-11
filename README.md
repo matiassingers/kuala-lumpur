@@ -55,7 +55,7 @@ Midnight surcharge(50%) on pickups between 00:01 - 05:59.
 - [KTM Komuter](http://www.ktmkomuter.com.my/) - two lines: Rawang-Seremban and Sentul-Port Klang. Trains are not as frequent as LRT or Monorail, usually 10-20min wait.
 - [ERL](http://www.kliaekspres.com/plan-buy/schedule/) - KLIA Express and Transit trains between KL Sentral and KLIA.
 
-See [map](http://myforum.malayarailway.com/file/n2481385/klang_valley_integrated_rail_map.jpg).
+See [transit map](http://myforum.malayarailway.com/file/n2481385/klang_valley_integrated_rail_map.jpg) for better overview, note that you don't often see a map of all the lines at stations - so save the map or get an app like [KL Train](https://itunes.apple.com/my/app/kl-train-guide-for-komuter/id505150294?mt=8)(iOS).
 
 The [Touch'n'Go](http://www.touchngo.com.my/) can be used on all lines except the ERL.
 There is also a separate [MyRapid Card](http://www.myrapid.com.my/tickets-fares/myrapid-card) for LRT, Monorail and RapidKL busses.
