@@ -52,7 +52,7 @@ Many drivers will refuse to use the meter if during rush hour or if it's raining
 Midnight surcharge (50%) on pickups between 00:01 - 05:59.
 
 ### Train
-- [LRT & Monorail](http://www.myrapid.com.my/rail/routes) - three lines: Ampang, Kelana Jaya and Monorail. LRT is basically a metro which are underground in the central part, but on elevated pillars elsewhere. Monorail runs in a semicircle loop around the central part of town.
+- [LRT & Monorail](http://www.myrapid.com.my/rail/routes) - three lines: Ampang, Kelana Jaya and Monorail. LRT is basically a metro which runs underground in the center but on elevated pillars outside. Monorail runs in a semicircle loop around the central part of town.
 - [KTM Komuter](http://www.ktmkomuter.com.my/) - two lines: Rawang-Seremban and Sentul-Port Klang. Trains are not as frequent as LRT or Monorail, usually 10-20min wait.
 - [ERL](http://www.kliaekspres.com/plan-buy/schedule/) - KLIA Express and Transit trains between KL Sentral and KLIA.
 
