@@ -11,6 +11,7 @@ Hi, welcome to Kuala Lumpur!
 - [Tipping](#tipping)
 - [Getting Around](#getting-around)
 - [Food](#food)
+  - [Nasi Lemak](#nasi-lemak)
 - [Sightseeing](#sightseeing)
 - [License](#license)
 
@@ -64,6 +65,11 @@ There is a KLIA Express station in both the main and KLIA2 terminal.
 
 ## Food
 Please contribute content here.
+
+### Nasi Lemak
+Traditional Malay dish of chicken, fragrant rice and awesomeness.
+
+Places to find: Village Park (worth the drive and wait for a table)
 
 ## Sightseeing
 - Petronas Towers
