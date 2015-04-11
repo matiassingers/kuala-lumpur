@@ -9,7 +9,9 @@ Hi, welcome to Kuala Lumpur!
 - [License](#license)
 
 ## Meetups
-- 
+- [MaGIC event calendar](http://www.mymagic.my/events/#eventpage)
+- [WCKL Soapbox](https://www.facebook.com/groups/wcklsoapbox/)
+- [WebCamp group list](https://www.facebook.com/notes/webcamp-kl/other-groups-of-interests/226789543999804) *[outdated]*
 
 ## License
 
