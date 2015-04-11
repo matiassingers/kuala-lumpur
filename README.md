@@ -11,6 +11,7 @@ Hi, welcome to Kuala Lumpur!
 - [Tipping](#tipping)
 - [Getting Around](#getting-around)
 - [Food](#food)
+- [Sightseeing](#sightseeing)
 - [License](#license)
 
 ## Meetups
@@ -62,6 +63,15 @@ There is a KLIA Express station in both the main and KLIA2 terminal.
 
 ## Food
 Please contribute content here.
+
+## Sightseeing
+- Petronas Towers
+- Menara KL Tower
+- Chinatown(Jalan Petaling)
+- Batu Caves
+- Merdeka Square
+- Jalan Alor
+- Central Market
 
 ## License
 
