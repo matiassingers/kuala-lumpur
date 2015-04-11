@@ -69,7 +69,7 @@ Please contribute content here.
 ### Nasi Lemak
 Traditional Malay dish of chicken, fragrant rice and awesomeness.
 
-Places to find: Village Park (worth the drive and wait for a table)
+Places to find: Village Park (worth the drive and wait for a table) or Nasi Lemak Medan Selera 223 (showdown between red and blue).
 
 ## Sightseeing
 - Petronas Towers
