@@ -8,6 +8,7 @@ Hi, welcome to Kuala Lumpur!
 - [Meetups](#meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
+- [Tipping](#tipping)
 - [License](#license)
 
 ## Meetups
@@ -28,6 +29,11 @@ Checkout this extensive guide for all the carriers: http://prepaid-data-sim-card
 [Type G](http://www.iec.ch/worldplugs/typeG.htm)(BS 1363 UK, 230-240V)
 
 It's possible to jam a two-prong European [Type C](http://www.iec.ch/worldplugs/typeC.htm) into the socket, but it involves shoving a fork/key into the third hole - most convenience stores sell little adapters as well.
+
+## Tipping
+No need to tip, leave the coins if you want to get rid of them.
+
+Most hospitality places(hotels, large restaurants etc.) include a 10% service charge, it's however changing with the newly imposed 6% GST.
 
 ## License
 
