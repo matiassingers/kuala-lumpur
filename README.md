@@ -31,14 +31,14 @@ Main carriers:
 Checkout this extensive guide for all the carriers: http://prepaid-data-sim-card.wikia.com/wiki/Malaysia
 
 ## Power (Socket)
-[Type G](http://www.iec.ch/worldplugs/typeG.htm)(BS 1363 UK, 230-240V)
+[Type G](http://www.iec.ch/worldplugs/typeG.htm) (BS 1363 UK, 230-240V)
 
 It's possible to jam a two-prong European [Type C](http://www.iec.ch/worldplugs/typeC.htm) into the socket, but it involves shoving a fork/key into the third hole - most convenience stores sell little adapters as well.
 
 ## Tipping
 No need to tip, leave the coins if you want to get rid of them.
 
-Most hospitality places(hotels, large restaurants etc.) include a 10% service charge, it's however changing with the newly imposed 6% GST.
+Most hospitality places (hotels, large restaurants etc.) include a 10% service charge, it's however changing with the newly imposed 6% GST.
 
 ## Getting Around
 
@@ -49,14 +49,14 @@ Use one of the following apps to ensure that the driver will follow the meter:
 
 Many drivers will refuse to use the meter if during rush hour or if it's raining. Usually best to try and hail a cab off the street and avoid ones that loiter around tourist spots
 
-Midnight surcharge(50%) on pickups between 00:01 - 05:59.
+Midnight surcharge (50%) on pickups between 00:01 - 05:59.
 
 ### Train
 - [LRT & Monorail](http://www.myrapid.com.my/rail/routes) - three lines: Ampang, Kelana Jaya and Monorail. LRT is basically a metro which are underground in the central part, but on elevated pillars elsewhere. Monorail runs in a semicircle loop around the central part of town.
 - [KTM Komuter](http://www.ktmkomuter.com.my/) - two lines: Rawang-Seremban and Sentul-Port Klang. Trains are not as frequent as LRT or Monorail, usually 10-20min wait.
 - [ERL](http://www.kliaekspres.com/plan-buy/schedule/) - KLIA Express and Transit trains between KL Sentral and KLIA.
 
-See [transit map](http://myforum.malayarailway.com/file/n2481385/klang_valley_integrated_rail_map.jpg) for better overview, note that you don't often see a map of all the lines at stations - so save the map or get an app like [KL Train](https://itunes.apple.com/my/app/kl-train-guide-for-komuter/id505150294?mt=8)(iOS).
+See [transit map](http://myforum.malayarailway.com/file/n2481385/klang_valley_integrated_rail_map.jpg) for better overview, note that you don't often see a map of all the lines at stations - so save the map or get an app like [KL Train](https://itunes.apple.com/my/app/kl-train-guide-for-komuter/id505150294?mt=8) (iOS).
 
 The [Touch'n'Go](http://www.touchngo.com.my/) can be used on all lines except the ERL.
 There is also a separate [MyRapid Card](http://www.myrapid.com.my/tickets-fares/myrapid-card) for LRT, Monorail and RapidKL busses.
@@ -74,7 +74,7 @@ Places to find: Village Park (worth the drive and wait for a table) or Nasi Lema
 ## Sightseeing
 - Petronas Towers
 - Menara KL Tower
-- Chinatown(Jalan Petaling)
+- Chinatown (Jalan Petaling)
 - Batu Caves
 - Merdeka Square
 - Jalan Alor
