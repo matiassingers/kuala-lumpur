@@ -10,6 +10,7 @@ Hi, welcome to Kuala Lumpur!
 - [Power (Socket)](#power-socket)
 - [Tipping](#tipping)
 - [Getting Around](#getting-around)
+- [Food](#food)
 - [License](#license)
 
 ## Meetups
@@ -58,6 +59,9 @@ The [Touch'n'Go](http://www.touchngo.com.my/) can be used on all lines except th
 There is also a separate [MyRapid Card](http://www.myrapid.com.my/tickets-fares/myrapid-card) for LRT, Monorail and RapidKL busses.
 
 There is a KLIA Express station in both the main and KLIA2 terminal.
+
+## Food
+Please contribute content here.
 
 ## License
 
