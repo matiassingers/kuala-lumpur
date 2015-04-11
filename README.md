@@ -76,4 +76,4 @@ Please contribute content here.
 
 ## License
 
-MIT © [Matias Singers](http://mts.io)
+Released under the [MIT License](http://www.opensource.org/licenses/MIT).
