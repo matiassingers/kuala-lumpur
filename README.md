@@ -86,7 +86,7 @@ Traditional Malay dish of chicken, fragrant rice and awesomeness.
 Places to find: Village Park (worth the drive and wait for a table) or Nasi Lemak Medan Selera 223 (showdown between red and blue).
 
 ### Banana Leaf Rice
-A Traditional indian cuisine that served with rice and vegetables. You can order other meat dishes as extra. (Best part is that you don't have to pay extra for additional of rice or pre-served dishes *mostly*)
+A Traditional indian cuisine that served with rice and vegetables. You can order other dishes as extra. (you don't have to pay extra for additional of rice or pre-served dishes **usually**)
 
 Places to find: [Bangsar, Restoran Sri Nirwana Maju](https://www.google.com/maps?ll=3.13113,101.67095&z=16&t=m&hl=en-GB&gl=MY&mapclient=embed&cid=14296020835887547715)
 
