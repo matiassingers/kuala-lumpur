@@ -8,6 +8,7 @@ Hi, welcome to Kuala Lumpur!
 - [Meetups](#meetups)
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
+- [Communication](#communication)
 - [Tipping](#tipping)
 - [Getting Around](#getting-around)
 - [Food](#food)
@@ -29,6 +30,19 @@ Main carriers:
 - [U Mobile](https://www.u.com.my/new_prepaidplan)
 
 Checkout this extensive guide for all the carriers: http://prepaid-data-sim-card.wikia.com/wiki/Malaysia
+
+## Communication 
+Our national language is Malay but you can use English to get your way around the city.
+
+### Common words
+**Mamak**  
+Food restaurant that is established by Tamil Muslims community, usual hang out place for cheap food and after party session.
+
+**Yum Cha**  
+`Let's Drink` in Cantonese, use for `let's hang out`
+
+**Ta Pau**  
+`Take Away` in Cantonese
 
 ## Power (Socket)
 [Type G](http://www.iec.ch/worldplugs/typeG.htm) (BS 1363 UK, 230-240V)
@@ -70,6 +84,11 @@ Please contribute content here.
 Traditional Malay dish of chicken, fragrant rice and awesomeness.
 
 Places to find: Village Park (worth the drive and wait for a table) or Nasi Lemak Medan Selera 223 (showdown between red and blue).
+
+### Banana Leaf Rice
+A Traditional indian cuisine that served with rice and vegetables. You can order other dishes as extra. (you don't have to pay extra for additional of rice or pre-served dishes **usually**)
+
+Places to find: [Bangsar, Restoran Sri Nirwana Maju](https://www.google.com/maps?ll=3.13113,101.67095&z=16&t=m&hl=en-GB&gl=MY&mapclient=embed&cid=14296020835887547715)
 
 ## Sightseeing
 - Petronas Towers
