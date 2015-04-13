@@ -44,15 +44,10 @@ Most hospitality places (hotels, large restaurants etc.) include a 10% service c
 ## Communication 
 Our national language is Malay but you can use English to get your way around the city.
 
-### Common words
-**Mamak**  
-Food restaurant that is established by Tamil Muslims community, usual hang out place for cheap food and after party session.
-
-**Yum Cha**  
-`Let's Drink` in Cantonese, use for `let's hang out`
-
-**Ta Pau**  
-`Take Away` in Cantonese
+Common words:
+- **mamak** - food restaurant that is established by Tamil Muslims community, usual hang out place for cheap food and after party session.
+- **yum cha** - `let's drink` in Cantonese, used for `let's hang out`
+- **tapau** - `take-away` in Cantonese
 
 ## Getting Around
 
