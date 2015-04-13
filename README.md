@@ -35,11 +35,11 @@ Checkout this extensive guide for all the carriers: http://prepaid-data-sim-card
 Our national language is Malay but you can use English to get your way around the city.
 
 ### Common words
-*Mamak*  
+**Mamak**  
 Food restaurant that is established by Tamil Muslims community, usual hang out place for cheap food and after party session.
 
 **Yum Cha**  
-`Let's Drink` in Cantonese, common for let's hang out
+`Let's Drink` in Cantonese, use for `let's hang out`
 
 **Ta Pau**  
 `Take Away` in Cantonese
