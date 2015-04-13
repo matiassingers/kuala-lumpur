@@ -9,6 +9,7 @@ Hi, welcome to Kuala Lumpur!
 - [Data SIM Card](#data-sim-card)
 - [Power (Socket)](#power-socket)
 - [Tipping](#tipping)
+- [Communication](#communication)
 - [Getting Around](#getting-around)
 - [Food](#food)
   - [Nasi Lemak](#nasi-lemak)
@@ -39,6 +40,19 @@ It's possible to jam a two-prong European [Type C](http://www.iec.ch/worldplugs/
 No need to tip, leave the coins if you want to get rid of them.
 
 Most hospitality places (hotels, large restaurants etc.) include a 10% service charge, it's however changing with the newly imposed 6% GST.
+
+## Communication 
+Our national language is Malay but you can use English to get your way around the city.
+
+### Common words
+**Mamak**  
+Food restaurant that is established by Tamil Muslims community, usual hang out place for cheap food and after party session.
+
+**Yum Cha**  
+`Let's Drink` in Cantonese, use for `let's hang out`
+
+**Ta Pau**  
+`Take Away` in Cantonese
 
 ## Getting Around
 
