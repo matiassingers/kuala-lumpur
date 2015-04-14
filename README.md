@@ -20,6 +20,7 @@ Hi, welcome to Kuala Lumpur!
 Check out these calendars and groups:
 - [MaGIC event calendar](http://www.mymagic.my/events/#eventpage)
 - [WCKL Soapbox](https://www.facebook.com/groups/wcklsoapbox/)
+- [TheList.kl](https://www.facebook.com/thelist.kl)
 - [WebCamp group list](https://www.facebook.com/notes/webcamp-kl/other-groups-of-interests/226789543999804) *[outdated]*
 
 ## Data SIM Card
