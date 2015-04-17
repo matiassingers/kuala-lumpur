@@ -11,6 +11,7 @@ Hi, welcome to Kuala Lumpur!
 - [Tipping](#tipping)
 - [Communication](#communication)
 - [Getting Around](#getting-around)
+- [Coworking Space](#coworking-space)
 - [Food](#food)
   - [Nasi Lemak](#nasi-lemak)
 - [Sightseeing](#sightseeing)
@@ -21,6 +22,7 @@ Check out these calendars and groups:
 - [MaGIC event calendar](http://www.mymagic.my/events/#eventpage)
 - [WCKL Soapbox](https://www.facebook.com/groups/wcklsoapbox/)
 - [TheList.kl](https://www.facebook.com/thelist.kl)
+- [StartUp Mamak](https://www.facebook.com/groups/startupmamak/)
 - [WebCamp group list](https://www.facebook.com/notes/webcamp-kl/other-groups-of-interests/226789543999804) *[outdated]*
 
 ## Data SIM Card
@@ -74,6 +76,9 @@ The [Touch'n'Go](http://www.touchngo.com.my/) can be used on all lines except th
 There is also a separate [MyRapid Card](http://www.myrapid.com.my/tickets-fares/myrapid-card) for LRT, Monorail and RapidKL busses.
 
 There is a KLIA Express station in both the main and KLIA2 terminal.
+
+## Coworking Space
+- [Fluent Space](https://www.facebook.com/fluentspace)
 
 ## Food
 Please contribute content here.
