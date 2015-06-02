@@ -14,6 +14,7 @@ Hi, welcome to Kuala Lumpur!
 - [Coworking Space](#coworking-space)
 - [Food](#food)
   - [Nasi Lemak](#nasi-lemak)
+  - [Durian[(#durian)
 - [Sightseeing](#sightseeing)
 - [License](#license)
 
@@ -90,6 +91,11 @@ Please contribute content here.
 Traditional Malay dish of chicken, fragrant rice and awesomeness.
 
 Places to find: Village Park (worth the drive and wait for a table) or Nasi Lemak Medan Selera 223 (showdown between red and blue).
+
+### Durian
+This is a most try when in Kuala Lumpur, smell bad but tastes heavenly - [durian](http://en.wikipedia.org/wiki/Durian).
+
+Places to find: Wai's Durian Stall in SS2
 
 ## Sightseeing
 - Petronas Towers
