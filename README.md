@@ -79,7 +79,7 @@ There is also a separate [MyRapid Card](http://www.myrapid.com.my/tickets-fares/
 There is a KLIA Express station in both the main and KLIA2 terminal.
 
 ## Coworking Space
-- [the Co. Kuala Lumpur](https://www.facebook.com/jointhecokl)
+- [the Co. Kuala Lumpur](http://launch.jointhe.co/)
 - [Fluent Space](https://www.facebook.com/fluentspace)
 - [Nook](http://nook.my/)
 - [Paper + Toast](http://paperandtoast.com/)
