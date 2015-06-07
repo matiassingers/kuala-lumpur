@@ -83,6 +83,9 @@ There is a KLIA Express station in both the main and KLIA2 terminal.
 - [Fluent Space](https://www.facebook.com/fluentspace)
 - [Nook](http://nook.my/)
 - [Paper + Toast](http://paperandtoast.com/)
+- [Impact Hub KL](http://kualalumpur.impacthub.net/)
+- [MaGIC](http://mymagic.my/en/community/)
+- [The Hideout](http://hideout.my/)
 
 ## Food
 Please contribute content here.
