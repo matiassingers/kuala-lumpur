@@ -12,6 +12,7 @@ Hi, welcome to Kuala Lumpur!
 - [Communication](#communication)
 - [Getting Around](#getting-around)
 - [Coworking Space](#coworking-space)
+- [Cafes](#cafes)
 - [Food](#food)
   - [Nasi Lemak](#nasi-lemak)
   - [Durian](#durian)
@@ -45,7 +46,7 @@ No need to tip, leave the coins if you want to get rid of them.
 
 Most hospitality places (hotels, large restaurants etc.) include a 10% service charge, it's however changing with the newly imposed 6% GST.
 
-## Communication 
+## Communication
 Our national language is Malay but you can use English to get your way around the city.
 
 [Manglish](http://en.wikipedia.org/wiki/Manglish).
@@ -86,6 +87,10 @@ There is a KLIA Express station in both the main and KLIA2 terminal.
 - [Impact Hub KL](http://kualalumpur.impacthub.net/)
 - [MaGIC](http://mymagic.my/en/community/)
 - [The Hideout](http://hideout.my/)
+
+## Cafes
+Coffee shops with high speed internet, good coffee, good number of power points and good furnitures.
+- [Sudo Brew](https://www.facebook.com/sudo.brew/)
 
 ## Food
 Please contribute content here.
